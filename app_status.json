@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "min_version": "0.1.0",
   "message": "This version is no longer allowed. Please download the latest version."
 }
