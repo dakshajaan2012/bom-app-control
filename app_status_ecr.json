@@ -1,1 +1,5 @@
-
+{
+  "enabled": true,
+  "min_version": "1.0.0",
+  "message": "This version of ECR Tracker Incident Source Update is no longer allowed. Please download the latest version."
+}
