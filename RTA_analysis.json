@@ -1,1 +1,6 @@
 
+{
+  "enabled": true,
+  "min_version": "1.0.0",
+  "message": "This version of RTA Analysis tool is no longer allowed. Please download the latest version."
+}
